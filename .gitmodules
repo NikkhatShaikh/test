@@ -1,0 +1,3 @@
+[submodule "HotelService1"]
+	path = HotelService1
+	url = https://github.com/NikkhatShaikh/HotelService.git
